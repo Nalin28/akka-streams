@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="udemy-akka-streams" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58a36aba-9943-45d3-9564-7e557acf4215" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="846" />
+    <option name="width" value="834" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectId" id="1XKNAHiHbWIKD9Rkhdcx4KZAMPU" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577561980003" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Playground">
+    <configuration name="CustomGraphShapes" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part5_advanced.CustomGraphShapes" />
+      <module name="udemy-akka-streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part5_advanced.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomOperators" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part5_advanced.CustomOperators" />
+      <module name="udemy-akka-streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part5_advanced.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorFusion" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part2_primer.OperatorFusion" />
+      <module name="udemy-akka-streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part2_primer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Playground" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="playground.Playground" />
+      <module name="udemy-akka-streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Substreams" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part5_advanced.Substreams" />
+      <module name="udemy-akka-streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part5_advanced.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Playground" />
+        <item itemvalue="Application.OperatorFusion" />
+        <item itemvalue="Application.CustomOperators" />
+        <item itemvalue="Application.CustomGraphShapes" />
+        <item itemvalue="Application.Substreams" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="udemy-akka-streams" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="udemy-akka-streams [file:/Users/nmunshi/Desktop/udemy-akka-streams/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="udemy-akka-streams-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3137785523982" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="94350726" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1156910148" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../udemy-akka-essentials" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/akka-http-quickstart-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/Exercism/scala/hello-world" value="PREVIEW" />
+        <entry key="$USER_HOME$/Exercism/scala/two-fer" value="PREVIEW" />
+        <entry key="$USER_HOME$/cc-one/core-e2e" value="PREVIEW" />
+        <entry key="$USER_HOME$/contact-center" value="PREVIEW" />
+        <entry key="$USER_HOME$/contact-center/agentsimulator" value="PREVIEW" />
+        <entry key="$USER_HOME$/contact-center/akka-http-demo" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58a36aba-9943-45d3-9564-7e557acf4215" name="Default Changelist" comment="" />
+      <created>1568891889816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568891889816</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestingStreamsSpec_A_simple_stream_should_satisfy_basic_assertions - 2019.12.27 at 22h 18m 04s.xml">
+      <configuration name="TestingStreamsSpec.A simple stream should satisfy basic assertions" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestingStreamsSpec_A_simple_stream_should_integrate_with_test_actors_via_materialized_values - 2019.12.27 at 22h 27m 38s.xml">
+      <configuration name="TestingStreamsSpec.A simple stream should integrate with test actors via materialized values" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestingStreamsSpec_A_simple_stream_should_integrate_with_a_test-actor-based_sink - 2019.12.27 at 22h 32m 29s.xml">
+      <configuration name="TestingStreamsSpec.A simple stream should integrate with a test-actor-based sink" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestingStreamsSpec_A_simple_stream_should_integrate_with_Streams_TestKit_Sink - 2019.12.27 at 22h 36m 52s.xml">
+      <configuration name="TestingStreamsSpec.A simple stream should integrate with Streams TestKit Sink" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestingStreamsSpec_A_simple_stream_should_integrate_with_Streams_TestKit_Sink - 2019.12.27 at 22h 37m 10s.xml">
+      <configuration name="TestingStreamsSpec.A simple stream should integrate with Streams TestKit Sink" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestingStreamsSpec_A_simple_stream_should_integrate_with_Streams_TestKit_Source - 2019.12.27 at 22h 45m 23s.xml">
+      <configuration name="TestingStreamsSpec.A simple stream should integrate with Streams TestKit Source" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestingStreamsSpec - 2019.12.27 at 22h 50m 25s.xml">
+      <configuration name="TestingStreamsSpec" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="333" key="GridCell.Tab.0.bottom" timestamp="1580816667633">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="333" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580816667633" />
+    <state width="1638" height="333" key="GridCell.Tab.0.center" timestamp="1580816667632">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="333" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580816667632" />
+    <state width="1638" height="333" key="GridCell.Tab.0.left" timestamp="1580816667631">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="333" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580816667631" />
+    <state width="1638" height="333" key="GridCell.Tab.0.right" timestamp="1580816667632">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="333" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580816667632" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>udemy-akka-streams</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sbt: org.scala-lang:scala-library:2.12.7:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
